@@ -1,6 +1,6 @@
 
 
-### <h1> Hola, ¿como tale tale vu ? ✌ </h1>
+### <h1> Hola, ¿como tale tale vu ? ✌🏾 </h1>
 
 - 🔭 Backend
 - 📚 Estudando Java
