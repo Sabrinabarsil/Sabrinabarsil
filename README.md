@@ -1,10 +1,8 @@
 
 
-### <h1> Hola!  
-¿como tale tale vu ? 👋 </h1>
+### <h1> Hola, ¿como tale tale vu ? 👋 </h1>
 
 
-- 🔭 Estou aprendendo a programar / I've recently gotten into coding
 - 🌱 Backend.
 - ❤ Ela/dela/she/her
 
